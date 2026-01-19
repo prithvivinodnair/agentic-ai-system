@@ -1,0 +1,55 @@
+{
+  "scenario_type": "public_health_crisis",
+  "title": "Pandemic Vaccine Distribution Strategy",
+  "description": "National-scale decision on vaccine allocation strategy across different population segments and geographic regions",
+  "situation_data": {
+    "total_vaccine_supply": "50 million doses (month 1)",
+    "population_segments": {
+      "healthcare_workers": {
+        "count": 5000000,
+        "priority": "critical",
+        "risk_level": "high"
+      },
+      "elderly_65plus": {
+        "count": 18000000,
+        "priority": "high",
+        "risk_level": "high"
+      },
+      "essential_workers": {
+        "count": 25000000,
+        "priority": "medium",
+        "risk_level": "medium"
+      },
+      "general_population": {
+        "count": 280000000,
+        "priority": "low",
+        "risk_level": "low"
+      }
+    },
+    "geographic_distribution": {
+      "urban_high_density": "40% of population, 60% of cases",
+      "suburban": "35% of population, 25% of cases",
+      "rural": "25% of population, 15% of cases"
+    },
+    "current_metrics": {
+      "daily_cases": 150000,
+      "hospitalization_rate": "12%",
+      "icu_capacity": "85% full",
+      "mortality_rate": "1.8%"
+    }
+  },
+  "constraints": {
+    "supply_chain": "Cold storage limited to major cities",
+    "administration_capacity": "2M doses per day maximum",
+    "equity_requirements": "Must ensure rural access within 30 days",
+    "political_pressure": "Visible progress required within first month",
+    "medical_ethics": "Hippocratic oath - do no harm, prioritize most vulnerable"
+  },
+  "objectives": [
+    "Minimize deaths and severe illness",
+    "Protect healthcare system capacity",
+    "Enable economic recovery",
+    "Ensure equitable access across all communities",
+    "Build public trust in vaccination program"
+  ]
+}
