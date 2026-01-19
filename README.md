@@ -7,8 +7,6 @@
 
 A production-ready **full-stack multi-agent GenAI system** that automates complex operational decision-making at national scale by ingesting unstructured data, reasoning across constraints, and executing real-world workflows.
 
-![Demo](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Agentic+AI+System+Demo)
-
 ---
 
 ## ✨ Features
