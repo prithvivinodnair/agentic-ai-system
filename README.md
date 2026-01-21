@@ -4,8 +4,13 @@
 [![Next.js](https://img.shields.io/badge/Next.js-14.0-black.svg)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.109-green.svg)](https://fastapi.tiangolo.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://agentic-ai-system-mlgu.vercel.app/)
 
 A production-ready **full-stack multi-agent GenAI system** that automates complex operational decision-making at national scale by ingesting unstructured data, reasoning across constraints, and executing real-world workflows.
+
+**🌐 Live Demo:** [https://agentic-ai-system-mlgu.vercel.app/](https://agentic-ai-system-mlgu.vercel.app/)
+
+**🔗 API Backend:** [https://web-production-6ff44.up.railway.app](https://web-production-6ff44.up.railway.app)
 
 ---
 
@@ -48,7 +53,7 @@ A production-ready **full-stack multi-agent GenAI system** that automates comple
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/agentic-ai-system.git
+git clone https://github.com/prithvivinodnair/agentic-ai-system.git
 cd agentic-ai-system
 
 # Install Python dependencies
