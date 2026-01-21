@@ -42,6 +42,10 @@ venv.bak/
 # Output Files
 *.json
 !examples/*.json
+!frontend/package.json
+!frontend/tsconfig.json
+!vercel.json
+!frontend/vercel.json
 emergency_response_decision.json
 infrastructure_decision.json
 *.log
